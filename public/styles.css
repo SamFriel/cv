@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    background-color: #2D4356;
+    -webkit-text-fill-color: #EAB2A0;
+}
+
+.profile-pic {
+    height: 20rem;
+    width: 20rem;
+    border-radius: 4rem;
+}
+
+.container-fluid {
+    margin-top: 1rem;
+}
+
+.top-h1 {
+    font-size: 64px;
+    font-weight: bolder;
+
+}
+
+.top-h2 {
+    margin-top: 5rem;
+    font-weight: bold;
+    margin-bottom: 3rem;
+
+}
+
+.short-summary {
+    margin: 0, 30rem;
+    font-weight: 500;
+    padding: 5rem;
+    line-height: 2rem;
+}
+
+.margin-top-a-ton {
+    margin-top: 15rem;
+}
+
+.skills-list {
+    margin-bottom: 3rem;
+    list-style-type: none;
+}
